@@ -1,0 +1,70 @@
+.picture-container {
+  border: dashed 2px #81919c90;
+  width: 300px;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  height: 150px;
+  line-height: 150px;
+  border-radius: 25px;
+  background-color: #81919c50;
+}
+
+.picture-image {
+  font-size: 20px;
+  color: #373d4390;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h1,
+h2 {
+  color: olivedrab;
+  text-decoration: underline;
+}
+
+.cheese li {
+  list-style-type: '🧀 ';
+}
+
+.tomatoe li {
+  list-style-type: '🍅 ';
+}
+
+.lettuce li {
+  list-style-type: '🥬 ';
+}
+
+li {
+  color: black;
+  line-height: 30px;
+  color: purple;
+}
+
+footer {
+  font-size: 20px;
+  text-align: center;
+  color: darkgray;
+}
+
+a:link {
+  color: forestgreen;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: blue;
+}
